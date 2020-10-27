@@ -24,15 +24,12 @@
     color: #41f321;
     letter-spacing: 2px;
     text-transform: uppercase;
-    transition: 1s;
+    transition: 0.5s;
     overflow: hidden;
 }
 .btn-effect-1 .btn:hover{
     color:#111;
     z-index: 1;
-    transform: translateY(10px);
-
-
 }
 
 .btn-effect-1 .btn:hover span{
